@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SlabOfHam
 - 👀 I’m interested in ... not programming
-- 🌱 I’m currently learning ... programming sadly
+- 🌱 I’m currently learning ... programming, sadly
 - 💞️ I’m looking to collaborate on ... nuclear launch code cracker
 - 📫 How to reach me ... pigeon
 - 😄 Pronouns: ... he/ham
