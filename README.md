@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... not programming
 - 🌱 I’m currently learning ... programming sadly
 - 💞️ I’m looking to collaborate on ... nuclear launch code cracker
-- 📫 How to reach me ... pidgeon
+- 📫 How to reach me ... pigeon
 - 😄 Pronouns: ... he/ham
 - ⚡ Fun fact: ... ham is better than cheese
 
